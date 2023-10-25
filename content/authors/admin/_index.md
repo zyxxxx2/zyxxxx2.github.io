@@ -31,7 +31,7 @@ bio: Only time will tell and I will figure out.
 interests:
   - Table Tennis🏓 & Badminton🏸 & Volleyball🏐
   - Piano🎹
-  - Hiking⛰️
+  - Hiking⛰️ Climbing
 
 # Education to show in About widget
 education:
