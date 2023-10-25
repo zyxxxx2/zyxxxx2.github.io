@@ -29,7 +29,7 @@ bio: Only time will tell and I will figure out.
 
 # Interests to show in About widget
 interests:
-  - Table Tennis🏓 & Badminton🏸 & volleyball🏐
+  - Table Tennis🏓 & Badminton🏸 & Volleyball🏐
   - Piano🎹
   - Hiking🏞
 
