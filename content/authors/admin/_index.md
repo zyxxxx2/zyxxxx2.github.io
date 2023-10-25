@@ -2,9 +2,6 @@
 # Display name
 title: 张悦
 
-# Name pronunciation (optional)
-name_pronunciation: Yue Zhang
-
 # Full name (for SEO)
 first_name: Yue
 last_name: Zhang
@@ -31,7 +28,7 @@ bio: Only time will tell and I will figure out.
 interests:
   - Table Tennis🏓 & Badminton🏸 & Volleyball🏐
   - Piano🎹
-  - Hiking⛰️ Climbing
+  - Hiking⛰️
 
 # Education to show in About widget
 education:
