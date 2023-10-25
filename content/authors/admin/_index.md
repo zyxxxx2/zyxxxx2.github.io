@@ -31,7 +31,7 @@ bio: Only time will tell and I will figure out.
 interests:
   - Table Tennis🏓 & Badminton🏸 & Volleyball🏐
   - Piano🎹
-  - Hiking🏞
+  - Hiking⛰️
 
 # Education to show in About widget
 education:
@@ -82,4 +82,4 @@ My research interests include but are not limited to:
     <li>Data Mining</li>
     <li>Graph Data Management</li>
 </ul>
-{style="text-align: justify;"}
+
